@@ -1,4 +1,3 @@
-code () { 
-VSCODE_CWD="$PWD" open -n -b "com.microsoft.VSCode" --args $* 
-}
-
+if [ -f ~/.bashrc ]; then
+    . ~/.bashrc
+fi
