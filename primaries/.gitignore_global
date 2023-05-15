@@ -1,0 +1,22 @@
+/.idea
+/.vscode
+/.vagrant
+/auth.json
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw*
+
+# python
+/.venv
+
+# php
+/vendor
+
+# node
+/node_modules
